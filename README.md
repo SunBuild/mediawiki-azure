@@ -1,4 +1,4 @@
-== MediaWiki ==
+== MediaWiki == [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
 
 MediaWiki is a free and open-source wiki software package written in PHP. It
 serves as the platform for Wikipedia and the other projects of the Wikimedia
